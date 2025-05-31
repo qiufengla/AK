@@ -28,10 +28,7 @@ copy
 总通过次数: 13388  |  总提交次数: 15978  |  通过率: 83.8%
 
 难度: 简单   标签: 新手
-
-
 */
-
 
 #include<bits/stdc++.h>
 #include <iostream>
